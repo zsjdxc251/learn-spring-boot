@@ -1,4 +1,4 @@
-package org.example;
+package org.learn.spring.boot;
 
 import static org.junit.Assert.assertTrue;
 
